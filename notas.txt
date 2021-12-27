@@ -1,0 +1,4 @@
+-php artisan make:model Post -cmf
+-configurar la migracion
+-configurar las factories
+-configurar el seeder
