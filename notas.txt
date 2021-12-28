@@ -7,3 +7,5 @@
 -configuar la vista
 -configurar tailwind
 -crear un nuevo controlador << php artisan make:controller Api/V1/PostController --api --model=Post >>
+-creando una clase de recurso para mostrar la respuesta << php artisan make:resource V1/PostResource >>
+
