@@ -16,3 +16,4 @@
 
 -api privada
     << composer require laravel/sanctum >>
+    << php artisan make:controller Api/LoginController >>
