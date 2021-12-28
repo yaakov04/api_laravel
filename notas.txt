@@ -8,4 +8,9 @@
 -configurar tailwind
 -crear un nuevo controlador << php artisan make:controller Api/V1/PostController --api --model=Post >>
 -creando una clase de recurso para mostrar la respuesta << php artisan make:resource V1/PostResource >>
+-trabajando con la version 2
+    configurar la ruta
+    << php artisan make:controller Api/V2/PostController --api --model=Post >>
+    << php artisan make:resource V2/PostResource >>
+    << php artisan make:resource V2/PostCollection >>
 
