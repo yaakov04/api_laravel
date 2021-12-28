@@ -14,3 +14,5 @@
     << php artisan make:resource V2/PostResource >>
     << php artisan make:resource V2/PostCollection >>
 
+-api privada
+    << composer require laravel/sanctum >>
