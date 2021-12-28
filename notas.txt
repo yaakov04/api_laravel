@@ -2,3 +2,8 @@
 -configurar la migracion
 -configurar las factories
 -configurar el seeder
+-php artisan migrate --seed
+-configurar la ruta y el controlador
+-configuar la vista
+-configurar tailwind
+-crear un nuevo controlador << php artisan make:controller Api/V1/PostController --api --model=Post >>
